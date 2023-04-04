@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Apr  3 09:01:34 2023
+# Process ID: 10496
+# Current directory: /home/phamduong/Uboot_dev/1.tpm-zed/blink_led/blink_led.runs/synth_1
+# Command line: vivado -log design_1_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_wrapper.tcl
+# Log file: /home/phamduong/Uboot_dev/1.tpm-zed/blink_led/blink_led.runs/synth_1/design_1_wrapper.vds
+# Journal file: /home/phamduong/Uboot_dev/1.tpm-zed/blink_led/blink_led.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace

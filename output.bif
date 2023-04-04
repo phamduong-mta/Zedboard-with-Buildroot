@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]/home/phamduong/Uboot_dev/1.tpm-zed/fsbl.elf
+	/home/phamduong/Uboot_dev/1.tpm-zed/system.bit
+	/home/phamduong/Uboot_dev/1.tpm-zed/u-boot.elf
+}
